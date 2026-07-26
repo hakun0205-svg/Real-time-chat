@@ -47,7 +47,7 @@ nebula-chat/
 | JWT_SECRET | (固定値) | JWTシークレットキー ⚠️ 本番では必ず変更 |
 
 ```bash
-PORT=8080 JWT_SECRET=強力なランダム文字列 npm start
+PORT=9000 JWT_SECRET=強力なランダム文字列 npm start
 ```
 
 ## API 一覧
